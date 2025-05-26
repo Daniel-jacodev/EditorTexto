@@ -24,3 +24,9 @@ O projeto utiliza a biblioteca tcell (github.com/gdamore/tcell/v2), uma poderosa
     Compatibilidade com diferentes ambientes (Unix, Windows, etc.)
 
     Ricos recursos de renderização com suporte a cores e atributos de estilo
+
+🚀 Execução
+
+Para rodar o editor:
+
+go run main.go
